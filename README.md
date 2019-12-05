@@ -15,9 +15,11 @@ The Top 10 Sort_Algorithms i learned and implemwnted
 
 ![quick_Sort](https://github.com/liuzuoping/Algorithms/blob/master/images/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.gif)
 
+
 * 3:插入排序
 
-![Insert_Sort](https://github.com/liuzuoping/Algorithms/blob/master/images/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.gif)
+![insert_Sort](https://github.com/liuzuoping/Algorithms/blob/master/images/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.gif)
+
 
 * 4:希尔排序
 
